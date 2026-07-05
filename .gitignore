@@ -41,3 +41,11 @@ env/
 .vscode/
 *.swp
 *.swo
+
+# Chroma vector stores (generated at runtime)
+income_tax_collection/
+income_tax_collection_hf/
+
+# HuggingFace / model caches
+.cache/
+models/
