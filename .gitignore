@@ -41,6 +41,7 @@ env/
 .vscode/
 *.swp
 *.swo
+.cursorrules
 
 # Chroma vector stores (generated at runtime)
 income_tax_collection/
