@@ -45,7 +45,7 @@ env/
 
 # Chroma vector stores (generated at runtime)
 income_tax_collection/
-income_tax_collection_hf/
+real_estate_tax_collection/
 
 # HuggingFace / model caches
 .cache/
